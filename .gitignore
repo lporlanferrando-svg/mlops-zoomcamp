@@ -219,3 +219,6 @@ __marimo__/
 
 # Ignore noteboks 
 notebooks/*.ipynb
+
+# Ignore data files
+data/*.parquet
